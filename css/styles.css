@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+
+
+
+.container {
+    background-color: black;
+}
+
+.nav-link {
+    color: rgb(255, 255, 255);
+}
+
+
+.navbar-toggler{
+    background-color: #ffffff !important  ;
+}
+
+
+
+.navbar-brand{
+    color: white;
+}
+
+.bg{
+    background-color: black;
+}
+
+
+
+.c-blanco{
+    color: white;
+}
+
+
